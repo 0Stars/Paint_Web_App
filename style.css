@@ -1,0 +1,48 @@
+.body_backgorund {
+    background-image: url("Geometric.png");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: white; 
+      font-size: 40px;
+      font-family: 'Ubuntu', sans-serif;
+  }
+  #myCanvas
+  {
+    border-width: 4;
+    border-radius: 4;
+    border-style: solid;
+    border-color: rgb(2, 167, 167);
+    background-color: white;
+  }
+
+  button {
+    background-color: rgb(2, 167, 167);
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+  input
+  {
+    margin-right: 20px;
+    border-width: 4;
+    border-radius: 4;
+    border-style: solid;
+    border-color: rgb(2, 167, 167);
+    background-color: white;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+  span {
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+  }
+  
